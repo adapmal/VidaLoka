@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f7818cc79e05146e695aec279181f356
+labels:
+- Character
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carros_0
+    21300002: Carros_1
+    21300004: Carros_2
+    21300006: Carros_3
+    21300008: Carros_4
+    21300010: Carros_5
+    21300012: Carros_6
+    21300014: Carros_7
+    21300016: Carros_8
+    21300018: Carros_9
+    21300020: Carros_10
+    21300022: Carros_11
+    21300024: Carros_12
+    21300026: Carros_13
+    21300028: Carros_14
+    21300030: Carros_15
+    21300032: Carros_16
+    21300034: Carros_17
+    21300036: Carros_18
+    21300038: Carros_19
+    21300040: Carros_20
+    21300042: Carros_21
+    21300044: Carros_22
+    21300046: Carros_23
+    21300048: Carros_24
+    21300050: Carros_25
+    21300052: Carros_26
+    21300054: Carros_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Carros_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 184
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 184
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 184
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 184
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 184
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 53
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 120
+        width: 53
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 120
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 120
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 120
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 120
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 61
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 56
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 56
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 56
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carros_27
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 8
+        width: 101
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

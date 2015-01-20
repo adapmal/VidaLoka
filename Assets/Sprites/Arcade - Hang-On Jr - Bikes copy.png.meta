@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: c6618beb542654e09a4c46f0e439da75
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Hang-On Jr - Bikes copy_0
+    21300002: Arcade - Hang-On Jr - Bikes copy_1
+    21300004: Arcade - Hang-On Jr - Bikes copy_2
+    21300006: Arcade - Hang-On Jr - Bikes copy_3
+    21300008: Arcade - Hang-On Jr - Bikes copy_4
+    21300010: Arcade - Hang-On Jr - Bikes copy_5
+    21300012: Arcade - Hang-On Jr - Bikes copy_6
+    21300014: Arcade - Hang-On Jr - Bikes copy_7
+    21300016: Arcade - Hang-On Jr - Bikes copy_8
+    21300018: Arcade - Hang-On Jr - Bikes copy_9
+    21300020: Arcade - Hang-On Jr - Bikes copy_10
+    21300022: Arcade - Hang-On Jr - Bikes copy_11
+    21300024: Arcade - Hang-On Jr - Bikes copy_12
+    21300026: Arcade - Hang-On Jr - Bikes copy_13
+    21300028: Arcade - Hang-On Jr - Bikes copy_14
+    21300030: Arcade - Hang-On Jr - Bikes copy_15
+    21300032: Arcade - Hang-On Jr - Bikes copy_16
+    21300034: Arcade - Hang-On Jr - Bikes copy_17
+    21300036: Arcade - Hang-On Jr - Bikes copy_18
+    21300038: Arcade - Hang-On Jr - Bikes copy_19
+    21300040: Arcade - Hang-On Jr - Bikes copy_20
+    21300042: Arcade - Hang-On Jr - Bikes copy_21
+    21300044: Arcade - Hang-On Jr - Bikes copy_22
+    21300046: Arcade - Hang-On Jr - Bikes copy_23
+    21300048: Arcade - Hang-On Jr - Bikes copy_24
+    21300050: Arcade - Hang-On Jr - Bikes copy_25
+    21300052: Arcade - Hang-On Jr - Bikes copy_26
+    21300054: Arcade - Hang-On Jr - Bikes copy_27
+    21300056: Arcade - Hang-On Jr - Bikes copy_28
+    21300058: Arcade - Hang-On Jr - Bikes copy_29
+    21300060: Arcade - Hang-On Jr - Bikes copy_30
+    21300062: Arcade - Hang-On Jr - Bikes copy_31
+    21300064: Arcade - Hang-On Jr - Bikes copy_32
+    21300066: Arcade - Hang-On Jr - Bikes copy_33
+    21300068: Arcade - Hang-On Jr - Bikes copy_34
+    21300070: Arcade - Hang-On Jr - Bikes copy_35
+    21300072: Arcade - Hang-On Jr - Bikes copy_36
+    21300074: Arcade - Hang-On Jr - Bikes copy_37
+    21300076: Arcade - Hang-On Jr - Bikes copy_38
+    21300078: Arcade - Hang-On Jr - Bikes copy_39
+    21300080: Arcade - Hang-On Jr - Bikes copy_40
+    21300082: Arcade - Hang-On Jr - Bikes copy_41
+    21300084: Arcade - Hang-On Jr - Bikes copy_42
+    21300086: Arcade - Hang-On Jr - Bikes copy_43
+    21300088: Arcade - Hang-On Jr - Bikes copy_44
+    21300090: Arcade - Hang-On Jr - Bikes copy_45
+    21300092: Arcade - Hang-On Jr - Bikes copy_46
+    21300094: Arcade - Hang-On Jr - Bikes copy_47
+    21300096: Arcade - Hang-On Jr - Bikes copy_48
+    21300098: Arcade - Hang-On Jr - Bikes copy_49
+    21300100: Arcade - Hang-On Jr - Bikes copy_50
+    21300102: Arcade - Hang-On Jr - Bikes copy_51
+    21300104: Arcade - Hang-On Jr - Bikes copy_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Arcade - Hang-On Jr - Bikes copy_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 21
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 170
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 169
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 168
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 168
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 168
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 109
+        width: 4
+        height: 3
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 153
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 80
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 14
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 14
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 14
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 14
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 24
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Hang-On Jr - Bikes copy_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 24
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

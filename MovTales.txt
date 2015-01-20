@@ -1,0 +1,16 @@
+}
+		{
+		if (animator)
+		{
+			if (Input.GetKey(KeyCode.D))
+			{
+				animator.SetBool("Direita", true);
+				animator.SetBool("Esquerda", false);
+			}
+			if (Input.GetKey(KeyCode.A))
+			{
+				animator.SetBool("Direita", false);
+				animator.SetBool("Esquerda", true);
+				}	}
+		}
+	}
