@@ -11,7 +11,11 @@ public class Retrovisor : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other) {
+		if (other.transform.gameObject.name == "Moto")
+		{
 		animator.SetBool ("Pe", true);
+		Score.score += 1;
+		}
 	
 		
 	}

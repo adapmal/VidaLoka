@@ -19,4 +19,6 @@ public class MovimentacaoCamera : MonoBehaviour {
 			transform.position = target.position + new Vector3 (0,5f,-distcam);
 
 	}
+
+
 }

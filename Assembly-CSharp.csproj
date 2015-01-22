@@ -53,7 +53,11 @@
      <Compile Include="Assets\Scripts\Movimentacao1.cs" />
      <Compile Include="Assets\Scripts\MovimentacaoCamera.cs" />
      <Compile Include="Assets\Scripts\MovimentacaoInimigo.cs" />
+     <Compile Include="Assets\Scripts\PularCena.cs" />
+     <Compile Include="Assets\Scripts\Quit.cs" />
+     <Compile Include="Assets\Scripts\Quit1.cs" />
      <Compile Include="Assets\Scripts\Retrovisor.cs" />
+     <Compile Include="Assets\Scripts\Score.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
