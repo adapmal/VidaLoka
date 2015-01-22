@@ -16,7 +16,7 @@ public class Colisao : MonoBehaviour {
 	}
 
 	IEnumerator ResetMoto () {
-		yield return new WaitForSeconds (5);
+		yield return new WaitForSeconds (4);
 		
 		animator.SetBool ("parabola", false);
 		Movimentacao1.jaBateu = false;
